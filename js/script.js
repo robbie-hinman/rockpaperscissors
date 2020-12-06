@@ -5,5 +5,5 @@
 //GLOBAL VARIABLES
 /* global $ */
 
-
+console.log('huzzzzzah!')
 
